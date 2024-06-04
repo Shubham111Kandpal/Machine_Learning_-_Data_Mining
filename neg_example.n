@@ -1,0 +1,20 @@
+% Negative examples of chemical bonds
+
+bond(hydrogen, oxygen, double).
+bond(nitrogen, carbon, single).
+bond(fluorine, oxygen, double).
+bond(sodium, oxygen, covalent).
+bond(carbon, hydrogen, triple).
+bond(carbon, helium, single).
+bond(neon, carbon, double).
+bond(phosphorus, sulfur, single).
+bond(silicon, helium, covalent).
+bond(calcium, nitrogen, ionic).
+bond(potassium, oxygen, covalent).
+bond(magnesium, chlorine, covalent).
+bond(aluminum, fluorine, single).
+bond(lithium, neon, ionic).
+bond(beryllium, oxygen, covalent).
+bond(boron, fluorine, double).
+bond(hydrogen, helium, ionic).
+bond(neon, argon, covalent).
